@@ -1,3 +1,3 @@
 # Installation
 
-To install 
+To install {{book.name}}
