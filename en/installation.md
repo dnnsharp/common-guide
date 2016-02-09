@@ -1,4 +1,4 @@
-# Installation
+
 
 To install {{book.name}}, you need to have at least one of the following base modules: Action Form, Action Grid, DNN API Endpoint, Sharp Scheduler, or InfoBox.
 
