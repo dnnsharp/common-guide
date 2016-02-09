@@ -1,3 +1,3 @@
 # Installation
 
-To install {{book.name}} now
+To install {{book.name}} ....
