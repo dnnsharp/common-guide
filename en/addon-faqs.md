@@ -1,2 +1,5 @@
-# Add-on FAQs
+
+
+### Is there a trial of {{book.name}} available?
+
 
