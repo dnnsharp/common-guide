@@ -1,4 +1,4 @@
-My Awesome Book
+Common Documentation
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This project contains common content that we pull into other projects. Note that gitbook supports [variables](http://help.gitbook.com/format/templating.html).
