@@ -2,6 +2,6 @@
     "variables": {
         "code": "FAKE"
         "name": "Fake Product",
-        "productpage": "http://dnnnsharp.com/"
+        "productPage": "http://dnnnsharp.com/"
     }
 }
