@@ -5,5 +5,5 @@
 * [Not Implemented](not_implemented.md)
 * [Add-on FAQs](addon-faqs.md)
 * [Add-on Resources](add-on-resources.md)
-* Actions
+* [Actions](actions.md)
 
