@@ -13,3 +13,5 @@ Notes:
 
 Notes:
 * You should use Output token for console applications (Not for graphical applications).
+
+![](Run executable.png)
