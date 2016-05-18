@@ -14,7 +14,7 @@ As additional step to the steps provided on AES Encrypt section, you can decrypt
 
 ![](e2.png)
 
-And here's the how the grid item will look encrypted and decrypted: 
+And here's how the grid item will look encrypted and decrypted: 
 ![](e3.png)
 
 ## RSA Encrypt and RSA Decrypt
