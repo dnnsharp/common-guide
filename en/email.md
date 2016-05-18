@@ -2,7 +2,7 @@
 
 ## Send Email
 
-This action does exactly what it says. It sends an email using the SMTP server that is defined in DNN Host Settings. The following fields can be configured:
+This action sends an email using the SMTP server that is defined in DNN Host Settings. The following fields can be configured:
 * 
 **From**. This is the sender of the email as it will appear to the recipient. Leave empty to use the system default – if a portal context is set, the portal administrator email is used, otherwise, the email defined in Host Settings is used. This field supports context tokens and My Tokens.
 * 
