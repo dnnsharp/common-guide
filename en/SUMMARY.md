@@ -7,8 +7,8 @@
 * [Add-on Resources](add-on-resources.md)
 * [Actions](actions.md)
    * [Run Executable](run_executable.md)
-       * Message
    * [Email](email.md)
+   * Message
    * [Redirect](redirect.md)
    * [Security](security.md)
    * [User](user.md)
