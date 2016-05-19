@@ -10,5 +10,5 @@
    * [Email](email.md)
    * [Redirect](redirect.md)
    * [Security](security.md)
-   * User
+   * [User](user.md)
 
