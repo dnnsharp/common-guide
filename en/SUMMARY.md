@@ -11,5 +11,5 @@
    * [Redirect](redirect.md)
    * [Security](security.md)
    * [User](user.md)
-   * [E-mail](serialization.md)
+   * [Code](serialization.md)
 
