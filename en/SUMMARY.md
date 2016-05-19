@@ -8,7 +8,7 @@
 * [Actions](actions.md)
    * [Run Executable](run_executable.md)
    * [Email](email.md)
-   * Message
+   * [Message](message.md)
    * [Redirect](redirect.md)
    * [Security](security.md)
    * [User](user.md)
