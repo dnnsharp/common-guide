@@ -55,7 +55,7 @@
    * Save State
 * [Filesystem](filesystem.md)
    * Backup Files
-* Guide
+* [Guide](guide.md)
    * Next Step
    * Previous Step
    * Finish Guide
