@@ -25,7 +25,7 @@
    * [Upload Form Data (AJAX)](upload_form_data_ajax.md)
    * [Execute SQL Query](execute_sql_query.md)
 * Datasource
-   * Datasource Refresh
+   * [Datasource Refresh](datasource_refresh.md)
    * Datasource Add
    * Datasource Delete
    * Datasource View
