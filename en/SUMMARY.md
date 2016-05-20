@@ -6,7 +6,6 @@
 * [Add-on FAQs](addon-faqs.md)
 * [Add-on Resources](add-on-resources.md)
 * [Run Executable](run_executable.md)
-* [Message](message.md)
 * [Actions](actions.md)
    * [Message](message.md)
    * [Redirect](redirect.md)
