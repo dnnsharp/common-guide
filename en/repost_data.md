@@ -7,4 +7,5 @@ This action re-posts the form to a different URL, ending execution of any action
 * 
 **POST** Data. This is data to send to the URL using POST operation. Put key=value pairs, each on a separate line. It’s also possible to post whole messages, for example and **XML** (that SOAP-like services expect) by simply putting the XML without any lines. This field supports context tokens and **My Tokens**.
 
+![](repost.png)
 
