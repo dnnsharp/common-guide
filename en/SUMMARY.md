@@ -48,6 +48,7 @@
 * Entities
    * Load Entities (SQL)
    * Remove Entities
+   * Execute Actions on Entity List
 * [Run Executable](run_executable.md)
 * [Message](message.md)
 * [Redirect](redirect.md)
