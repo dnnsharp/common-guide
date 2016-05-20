@@ -85,7 +85,7 @@
    * [RSA Encrypt](rsa_encrypt.md)
 * Shell
    * [Run Executable](run_executable.md)
-   * Run PowerShell Script
+   * [Run PowerShell Script](run_powershell_script.md)
 * Serialization
    * Serialize to CSV
 * [User](user.md)
