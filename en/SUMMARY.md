@@ -26,6 +26,7 @@
    * Execute SQL Query
 * Datasource
    * Datasource Refresh
+   * Datasource Add
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
