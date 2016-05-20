@@ -42,6 +42,7 @@
    * Load Page
    * Update Page
    * Delete Page (Hard)
+   * Delete Page (Soft)
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
