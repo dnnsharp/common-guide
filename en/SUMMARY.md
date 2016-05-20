@@ -17,7 +17,7 @@
    * [Inject Data](inject_data.md)
    * [Load User](load_userr.md)
    * [Load Users from SQL](load_users_from_sql.md)
-* Data
+* [Data](data.md)
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
