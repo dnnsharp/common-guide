@@ -12,6 +12,6 @@
    * [Security](security.md)
    * [User](user.md)
    * Email
-   * [Code](serialization.md)
    * [Send Email](email.md)
+   * [Code](serialization.md)
 
