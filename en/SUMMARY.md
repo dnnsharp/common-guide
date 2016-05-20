@@ -60,7 +60,7 @@
    * Previous Step
    * Finish Guide
    * Go to step
-* Integration
+* [Integration](integration.md)
    * Run DNN Job
    * Execute Method
 * Message
