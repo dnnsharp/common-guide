@@ -12,6 +12,7 @@
    * [Load Entry (by UserID)](load_entry_by_userid.md)
    * Load User
    * Change User
+   * Inject Data
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
