@@ -23,6 +23,7 @@
    * Run SQL Query
    * Server Request
    * Upload Form Data (AJAX)
+   * Execute SQL Query
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
