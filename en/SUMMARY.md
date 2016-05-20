@@ -7,9 +7,10 @@
 * [Add-on Resources](add-on-resources.md)
 
 
-  * [Send Email](email.md)
+  
 * [Actions](actions.md)
   * Email
+  * [Send Email](email.md)
     * [Run Executable](run_executable.md)
    * [Message](message.md)
    * [Redirect](redirect.md)
