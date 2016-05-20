@@ -44,8 +44,8 @@
    * Delete Page (Hard)
    * Delete Page (Soft)
 * Email
-   * [Send Email](email.md) * Entities
-
+   * [Send Email](email.md)
+* Entities
 * [Run Executable](run_executable.md)
 * [Message](message.md)
 * [Redirect](redirect.md)
