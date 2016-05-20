@@ -70,7 +70,7 @@
 * [Parsing](parsing.md)
    * Regex
    * Regex - Multiple Results
-* Payments
+* [Payments](payments.md)
    * [Obsolete] Collect PayPal Payment
    * Collect PayPal Payment
 * Redirect
