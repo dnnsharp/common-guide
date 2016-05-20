@@ -93,7 +93,7 @@
    * Revoke User Role
    * Unauthorize User
    * Update User Profile
-   * User Login
+   * [User Login](user_login.md)
    * User Registration
    * Clear User Cache
 
