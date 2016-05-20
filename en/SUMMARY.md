@@ -37,7 +37,7 @@
    * [Log Error](log_error.md)
    * [Log Job Context](log_job_context.md)
 * DNN
-   * Delete File
+   * [Delete File](delete_file.md)
    * Create Page
    * Load Page
    * Update Page
