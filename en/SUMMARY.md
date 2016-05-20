@@ -20,6 +20,7 @@
 * [Data](data.md)
    * Clear Cache (by Key)
    * Repost Data
+   * Run SQL Query
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
