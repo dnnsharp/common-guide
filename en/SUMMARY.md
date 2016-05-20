@@ -79,7 +79,7 @@
    * Redirect to URL
    * Send File for Download
 * [Security](security.md)
-   * AES Decrypt
+   * [AES Decrypt](aes_decrypt.md)
    * [AES Encrypt](aes_encrypt.md)
    * RSA Decrypt
    * RSA Encrypt
