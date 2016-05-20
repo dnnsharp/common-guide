@@ -10,7 +10,7 @@
    * [Inject Form Data](inject_form_data.md)
    * [Load Entry (by ID)](load_entry_by_id.md)
    * [Load Entry (by UserID)](load_entry_by_userid.md)
-   * Load User
+   * [Load User](load_user.md)
    * Change User
    * Inject Data
    * Load User
