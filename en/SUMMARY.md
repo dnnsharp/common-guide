@@ -29,7 +29,7 @@
    * [Datasource Add](datasource_add.md)
    * [Datasource Delete](datasource_delete.md)
    * [Datasource View](datasource_view.md)
-   * Datasource Edit
+   * [Datasource Edit](datasource_edit.md)
    * Datasource Inline Edit
    * Datasource Detail View
 * Debug
