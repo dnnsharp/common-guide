@@ -21,6 +21,7 @@
    * Clear Cache (by Key)
    * Repost Data
    * Run SQL Query
+   * Server Request
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
