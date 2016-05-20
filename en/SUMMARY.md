@@ -29,6 +29,7 @@
    * Datasource Add
    * Datasource Delete
    * Datasource View
+   * Datasource Edit
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
