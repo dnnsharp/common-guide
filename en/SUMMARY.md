@@ -46,6 +46,7 @@
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
+   * Entities
 * [Message](message.md)
 * [Redirect](redirect.md)
    * Redirect to URL
