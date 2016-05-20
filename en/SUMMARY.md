@@ -28,7 +28,7 @@
    * [Datasource Refresh](datasource_refresh.md)
    * [Datasource Add](datasource_add.md)
    * [Datasource Delete](datasource_delete.md)
-   * Datasource View
+   * [Datasource View](datasource_view.md)
    * Datasource Edit
    * Datasource Inline Edit
    * Datasource Detail View
