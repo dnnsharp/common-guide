@@ -82,7 +82,7 @@
    * [AES Decrypt](aes_decrypt.md)
    * [AES Encrypt](aes_encrypt.md)
    * [RSA Decrypt](rsa_decrypt.md)
-   * RSA Encrypt
+   * [RSA Encrypt](rsa_encrypt.md)
 * Shell
    * [Run Executable](run_executable.md)
    * Run PowerShell Script
