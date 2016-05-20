@@ -81,7 +81,7 @@
 * [Security](security.md)
    * [AES Decrypt](aes_decrypt.md)
    * [AES Encrypt](aes_encrypt.md)
-   * RSA Decrypt
+   * [RSA Decrypt](rsa_decrypt.md)
    * RSA Encrypt
 * Shell
    * [Run Executable](run_executable.md)
