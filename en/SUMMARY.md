@@ -88,8 +88,6 @@
    * Run PowerShell Script
 * Serialization
    * Serialize to CSV
-* [Redirect](redirect.md)
-   * Redirect to URL
 * [Security](security.md)
 * [User](user.md)
    * Authorize User
