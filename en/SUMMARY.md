@@ -22,6 +22,7 @@
    * Repost Data
    * Run SQL Query
    * Server Request
+   * Upload Form Data (AJAX)
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
