@@ -1,5 +1,3 @@
-# Email
-
 ## Send Email
 
 This action sends an email using the SMTP server that is defined in DNN Host Settings. The following fields can be configured:
