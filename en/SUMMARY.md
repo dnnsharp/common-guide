@@ -12,7 +12,7 @@
    * [Load Entry (by UserID)](load_entry_by_userid.md)
    * [Load User](load_user.md)
    * [Change User](change_user.md)
-   * Inject Data
+   * [Inject Data](inject_data.md)
    * Load User
    * Load Users from SQL
 * Email
