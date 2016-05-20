@@ -54,10 +54,53 @@
   * Clear State
   * Load State
   * Save State
+* Filesystem
+  * Backup Files
+* Guide
+  * Next Step
+  * Previous Step
+  * Finish Guide
+  * Go to step
+* Integration
+  * Run DNN Job
+  * Execute Method
+* Message
+  * Display Error Message
+  * Display Message
+  * Send Plain Text as File Download
+* Parsing
+  * Regex
+  * Regex - Multiple Results
+* Payments
+  * [Obsolete] Collect PayPal Payment
+  * Collect PayPal Payment
+* Redirect
+  * Redirect to Portal Page
+  * Redirect to URL
+  * Send File for Download
+* Security
+  * AES Decrypt
+  * AES Encrypt
+  * RSA Decrypt
+  * RSA Encrypt
+* Serialization
+  * Serialize to CSV
+* Shell
+  * Run Executable
+  * Run PowerShell Script
 * [Run Executable](run_executable.md)
 * [Message](message.md)
 * [Redirect](redirect.md)
    * Redirect to URL
 * [Security](security.md)
 * [User](user.md)
+  * Authorize User
+  * Grant User Role
+  * Revoke User Role
+  * Unauthorize User
+  * Update User Profile
+  * User Login
+  * User Registration
+  * Clear User Cache
+
 
