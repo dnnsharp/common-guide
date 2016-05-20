@@ -40,7 +40,7 @@
    * [Delete File](delete_file.md)
    * [Create Page](create_page.md)
    * [Load Page](load_page.md)
-   * Update Page
+   * [Update Page](update_page.md)
    * Delete Page (Hard)
    * Delete Page (Soft)
 * Email
