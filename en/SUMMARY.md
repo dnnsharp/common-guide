@@ -13,7 +13,7 @@
    * [Load User](load_user.md)
    * [Change User](change_user.md)
    * [Inject Data](inject_data.md)
-   * Load User
+   * [Load User](load_userr.md)
    * Load Users from SQL
 * Email
    * [Send Email](email.md)
