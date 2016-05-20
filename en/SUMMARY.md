@@ -25,6 +25,7 @@
    * Upload Form Data (AJAX)
    * Execute SQL Query
 * Datasource
+   * Datasource Refresh
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
