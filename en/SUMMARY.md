@@ -73,7 +73,7 @@
 * [Payments](payments.md)
    * [Obsolete] Collect PayPal Payment
    * Collect PayPal Payment
-* Redirect
+* [Redirect](redirectt.md)
    * Redirect to Portal Page
    * Redirect to URL
    * Send File for Download
