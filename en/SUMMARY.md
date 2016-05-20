@@ -80,7 +80,7 @@
    * Send File for Download
 * [Security](security.md)
    * AES Decrypt
-   * AES Encrypt
+   * [AES Encrypt](aes_encrypt.md)
    * RSA Decrypt
    * RSA Encrypt
 * Shell
