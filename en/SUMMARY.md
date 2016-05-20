@@ -44,7 +44,7 @@
    * [Delete Page (Soft)](delete_page_soft.md)
 * [Email](emaill.md)
    * [Send Email](email.md)
-* Entities
+* [Entities](entities.md)
    * Load Entities (SQL)
    * Remove Entities
    * Execute Actions on Entity List
