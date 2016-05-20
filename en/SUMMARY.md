@@ -13,4 +13,5 @@
    * [Security](security.md)
    * [User](user.md)
    * [Code](serialization.md)
+   * Email
 
