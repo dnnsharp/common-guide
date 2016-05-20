@@ -37,6 +37,7 @@
    * Log Error
    * Log Job Context
 * DNN
+   * Delete File
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
