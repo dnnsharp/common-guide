@@ -11,7 +11,7 @@
 * [Actions](actions.md)
   * Email
     * [Send Email](email.md)
-    * [Run Executable](run_executable.md)
+   * [Run Executable](run_executable.md)
    * [Message](message.md)
    * [Redirect](redirect.md)
    * [Security](security.md)
