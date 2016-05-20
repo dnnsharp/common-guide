@@ -92,7 +92,7 @@
    * Grant User Role
    * Revoke User Role
    * Unauthorize User
-   * Update User Profile
+   * [Update User Profile](update_user_profile.md)
    * [User Login](user_login.md)
    * [User Registration](user_registration.md)
    * Clear User Cache
