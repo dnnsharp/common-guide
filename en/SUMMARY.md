@@ -94,6 +94,6 @@
    * Unauthorize User
    * Update User Profile
    * [User Login](user_login.md)
-   * User Registration
+   * [User Registration](user_registration.md)
    * Clear User Cache
 
