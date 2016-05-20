@@ -41,7 +41,7 @@
    * [Create Page](create_page.md)
    * [Load Page](load_page.md)
    * [Update Page](update_page.md)
-   * Delete Page (Hard)
+   * [Delete Page (Hard)](delete_page_hard.md)
    * Delete Page (Soft)
 * Email
    * [Send Email](email.md)
