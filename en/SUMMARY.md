@@ -30,6 +30,7 @@
    * Datasource Delete
    * Datasource View
    * Datasource Edit
+   * Datasource Inline Edit
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
