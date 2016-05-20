@@ -14,6 +14,7 @@
    * Change User
    * Inject Data
    * Load User
+   * Load Users from SQL
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
