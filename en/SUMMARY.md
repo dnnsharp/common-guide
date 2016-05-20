@@ -18,7 +18,7 @@
    * [Load User](load_userr.md)
    * [Load Users from SQL](load_users_from_sql.md)
 * [Data](data.md)
-   * Clear Cache (by Key)
+   * [Clear Cache (by Key)](clear_cache_by_key.md)
    * Repost Data
    * Run SQL Query
    * Server Request
@@ -50,56 +50,54 @@
    * Remove Entities
    * Execute Actions on Entity List
 * Form State
-  * Auto Save State
-  * Clear State
-  * Load State
-  * Save State
+   * Auto Save State
+   * Clear State
+   * Load State
+   * Save State
 * Filesystem
-  * Backup Files
+   * Backup Files
 * Guide
-  * Next Step
-  * Previous Step
-  * Finish Guide
-  * Go to step
+   * Next Step
+   * Previous Step
+   * Finish Guide
+   * Go to step
 * Integration
-  * Run DNN Job
-  * Execute Method
+   * Run DNN Job
+   * Execute Method
 * Message
-  * Display Error Message
-  * Display Message
-  * Send Plain Text as File Download
+   * Display Error Message
+   * Display Message
+   * Send Plain Text as File Download
 * Parsing
-  * Regex
-  * Regex - Multiple Results
+   * Regex
+   * Regex - Multiple Results
 * Payments
-  * [Obsolete] Collect PayPal Payment
-  * Collect PayPal Payment
+   * [Obsolete] Collect PayPal Payment
+   * Collect PayPal Payment
 * Redirect
-  * Redirect to Portal Page
-  * Redirect to URL
-  * Send File for Download
+   * Redirect to Portal Page
+   * Redirect to URL
+   * Send File for Download
 * Security
-  * AES Decrypt
-  * AES Encrypt
-  * RSA Decrypt
-  * RSA Encrypt
+   * AES Decrypt
+   * AES Encrypt
+   * RSA Decrypt
+   * RSA Encrypt
 * Shell
-  * [Run Executable](run_executable.md)
-  * Run PowerShell Script
+   * [Run Executable](run_executable.md)
+   * Run PowerShell Script
 * Serialization
-  * Serialize to CSV
-
+   * Serialize to CSV
 * [Redirect](redirect.md)
    * Redirect to URL
 * [Security](security.md)
 * [User](user.md)
-  * Authorize User
-  * Grant User Role
-  * Revoke User Role
-  * Unauthorize User
-  * Update User Profile
-  * User Login
-  * User Registration
-  * Clear User Cache
-
+   * Authorize User
+   * Grant User Role
+   * Revoke User Role
+   * Unauthorize User
+   * Update User Profile
+   * User Login
+   * User Registration
+   * Clear User Cache
 
