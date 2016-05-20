@@ -34,6 +34,7 @@
    * Datasource Detail View
 * Debug
    * Log Debug Info
+   * Log Error
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
