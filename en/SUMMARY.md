@@ -82,7 +82,7 @@
    * [AES Encrypt](aes_encrypt.md)
    * [RSA Decrypt](rsa_decrypt.md)
    * [RSA Encrypt](rsa_encrypt.md)
-* Shell
+* [Shell](shell.md)
    * [Run Executable](run_executable.md)
    * [Run PowerShell Script](run_powershell_script.md)
 * Serialization
