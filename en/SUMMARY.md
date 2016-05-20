@@ -36,9 +36,9 @@
    * Log Debug Info
    * Log Error
    * Log Job Context
+* DNN
 * Email
    * [Send Email](email.md)
-       * DNN
 * [Run Executable](run_executable.md)
 * [Message](message.md)
 * [Redirect](redirect.md)
