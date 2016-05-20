@@ -83,12 +83,12 @@
   * AES Encrypt
   * RSA Decrypt
   * RSA Encrypt
+* Shell
+  * [Run Executable](run_executable.md)
+  * Run PowerShell Script
 * Serialization
   * Serialize to CSV
-* Shell
-  * Run Executable
-  * Run PowerShell Script
-* [Run Executable](run_executable.md)
+
 * [Redirect](redirect.md)
    * Redirect to URL
 * [Security](security.md)
