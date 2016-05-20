@@ -78,7 +78,7 @@
    * Redirect to Portal Page
    * Redirect to URL
    * Send File for Download
-* Security
+* [Security](security.md)
    * AES Decrypt
    * AES Encrypt
    * RSA Decrypt
@@ -88,7 +88,6 @@
    * Run PowerShell Script
 * Serialization
    * Serialize to CSV
-* [Security](security.md)
 * [User](user.md)
    * Authorize User
    * Grant User Role
