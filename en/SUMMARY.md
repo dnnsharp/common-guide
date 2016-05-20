@@ -11,7 +11,7 @@
    * [Load Entry (by ID)](load_entry_by_id.md)
    * [Load Entry (by UserID)](load_entry_by_userid.md)
    * [Load User](load_user.md)
-   * Change User
+   * [Change User](change_user.md)
    * Inject Data
    * Load User
    * Load Users from SQL
