@@ -90,7 +90,7 @@
 * [User](user.md)
    * Authorize User
    * [Grant User Role](grant_user_role.md)
-   * Revoke User Role
+   * [Revoke User Role](revoke_user_role.md)
    * Unauthorize User
    * [Update User Profile](update_user_profile.md)
    * [User Login](user_login.md)
