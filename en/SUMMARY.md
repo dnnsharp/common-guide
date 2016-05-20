@@ -89,7 +89,7 @@
    * Serialize to CSV
 * [User](user.md)
    * Authorize User
-   * Grant User Role
+   * [Grant User Role](grant_user_role.md)
    * Revoke User Role
    * Unauthorize User
    * [Update User Profile](update_user_profile.md)
