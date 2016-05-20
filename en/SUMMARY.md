@@ -11,7 +11,7 @@
    * [Redirect](redirect.md)
    * [Security](security.md)
    * [User](user.md)
+   * Email
    * [Code](serialization.md)
    * [Send Email](email.md)
-   * Email
 
