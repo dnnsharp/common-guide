@@ -6,6 +6,8 @@
 * [Add-on FAQs](addon-faqs.md)
 * [Add-on Resources](add-on-resources.md)
 * [ACTIONS BELOW](actions.md)
+* [Code](serialization.md)
+   * [Execute Token](execute_token.md)
 * Context
    * [Inject Form Data](inject_form_data.md)
    * [Load Entry (by ID)](load_entry_by_id.md)
@@ -23,6 +25,5 @@
    * Redirect to URL
 * [Security](security.md)
 * [User](user.md)
-* [Code](serialization.md)
-   * [Execute Token](execute_token.md)
+\
 
