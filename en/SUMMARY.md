@@ -18,6 +18,7 @@
    * [Load User](load_userr.md)
    * [Load Users from SQL](load_users_from_sql.md)
 * [Data](data.md)
+   * Clear Cache (by Key)
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
