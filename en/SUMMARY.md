@@ -39,7 +39,7 @@
 * DNN
    * [Delete File](delete_file.md)
    * [Create Page](create_page.md)
-   * Load Page
+   * [Load Page](load_page.md)
    * Update Page
    * Delete Page (Hard)
    * Delete Page (Soft)
