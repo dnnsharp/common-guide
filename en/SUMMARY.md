@@ -95,5 +95,5 @@
    * [Update User Profile](update_user_profile.md)
    * [User Login](user_login.md)
    * [User Registration](user_registration.md)
-   * Clear User Cache
+   * [Clear User Cache](clear_user_cache.md)
 
