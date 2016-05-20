@@ -35,6 +35,7 @@
 * Debug
    * Log Debug Info
    * Log Error
+   * Log Job Context
 * Email
    * [Send Email](email.md)
 * [Run Executable](run_executable.md)
