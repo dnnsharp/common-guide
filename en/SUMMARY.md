@@ -26,7 +26,7 @@
    * [Execute SQL Query](execute_sql_query.md)
 * Datasource
    * [Datasource Refresh](datasource_refresh.md)
-   * Datasource Add
+   * [Datasource Add](datasource_add.md)
    * Datasource Delete
    * Datasource View
    * Datasource Edit
