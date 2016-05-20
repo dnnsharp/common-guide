@@ -35,7 +35,7 @@
 * Debug
    * [Log Debug Info](log_debug_info.md)
    * [Log Error](log_error.md)
-   * Log Job Context
+   * [Log Job Context](log_job_context.md)
 * DNN
    * Delete File
    * Create Page
