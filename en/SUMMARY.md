@@ -34,7 +34,7 @@
    * [Datasource Detail View](datasource_detail_view.md)
 * Debug
    * [Log Debug Info](log_debug_info.md)
-   * Log Error
+   * [Log Error](log_error.md)
    * Log Job Context
 * DNN
    * Delete File
