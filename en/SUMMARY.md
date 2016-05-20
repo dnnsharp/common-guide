@@ -67,7 +67,7 @@
    * Display Error Message
    * Display Message
    * Send Plain Text as File Download
-* Parsing
+* [Parsing](parsing.md)
    * Regex
    * Regex - Multiple Results
 * Payments
