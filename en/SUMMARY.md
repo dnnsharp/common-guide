@@ -42,7 +42,7 @@
    * [Load Page](load_page.md)
    * [Update Page](update_page.md)
    * [Delete Page (Hard)](delete_page_hard.md)
-   * Delete Page (Soft)
+   * [Delete Page (Soft)](delete_page_soft.md)
 * Email
    * [Send Email](email.md)
 * Entities
