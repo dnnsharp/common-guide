@@ -86,7 +86,7 @@
    * [Run Executable](run_executable.md)
    * [Run PowerShell Script](run_powershell_script.md)
 * [Serialization](serializationn.md)
-   * Serialize to CSV
+   * [Serialize to CSV](serialize_to_csv.md)
 * [User](user.md)
    * [Authorize User](authorize_user.md)
    * [Grant User Role](grant_user_role.md)
