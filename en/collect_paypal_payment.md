@@ -1,4 +1,5 @@
-# Collect PayPal Payment
+
+### Collect PayPal Payment
 
 This action allows you to set a PayPal payment requirement when the request is made. To set this requirement you will need to add the **Collect Paypal Payment** action. It allows you to set PayPal payments by submitting your Sandbox Account Email, Live Account Email, Payment Amount, Payment Frequency, and Currency preference. You can also apply tokens to the email addresses, item title and payment amount fields. 
 
