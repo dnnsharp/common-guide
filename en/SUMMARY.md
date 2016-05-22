@@ -45,7 +45,7 @@
 * [Email](emaill.md)
    * [Send Email](email.md)
 * [Entities](entities.md)
-   * Load Entities (SQL)
+   * [Load Entities (SQL)](load_entities_sql.md)
    * Remove Entities
    * Execute Actions on Entity List
 * [Form State](form_state.md)
