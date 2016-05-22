@@ -88,7 +88,7 @@
 * [Serialization](serializationn.md)
    * Serialize to CSV
 * [User](user.md)
-   * Authorize User
+   * [Authorize User](authorize_user.md)
    * [Grant User Role](grant_user_role.md)
    * [Revoke User Role](revoke_user_role.md)
    * Unauthorize User
