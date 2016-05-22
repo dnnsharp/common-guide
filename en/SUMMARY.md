@@ -54,7 +54,7 @@
    * [Load State](load_state.md)
    * [Save State](save_state.md)
 * [Filesystem](filesystem.md)
-   * Backup Files
+   * [Backup Files](backup_files.md)
 * [Guide](guide.md)
    * Next Step
    * Previous Step
