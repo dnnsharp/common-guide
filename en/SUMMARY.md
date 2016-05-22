@@ -72,7 +72,7 @@
    * Regex - Multiple Results
 * [Payments](payments.md)
    * [[Obsolete] Collect PayPal Payment]([obsolete]_collect_paypal_payment.md)
-   * Collect PayPal Payment
+   * [Collect PayPal Payment](collect_paypal_payment.md)
 * [Redirect](redirectt.md)
    * Redirect to Portal Page
    * Redirect to URL
