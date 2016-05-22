@@ -16,3 +16,5 @@ This is the type that contains the method. Provide class name and qualify it wit
 
 **Parameters**. This is a list of values to pass to the method. Each parameter is identified by its name (case insensitive), so the order in which you specify them doesn't matter. **Sharp Scheduler** will try to best convert the values to their respective types, but ultimately it’s your responsibility to ensure that you pass valid input into the methods. Each parameter can contain context tokens (for example **[ContextTokenName]**) and **My Tokens**.
 One interesting aspect about the **Execute Method** action is that all the options can also be provided via the configuration file. This way, we (developers and system integrators) protect end-users from the technical details and also prevent them from breaking configuration. The reflection parameters are provided via the configuration file, while no parameters, such as the rule name, are shown on the front end.
+
+![](258b8a68-97c2-4853-b0b4-c714c06ca728.png)
