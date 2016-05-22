@@ -50,7 +50,7 @@
    * [Execute Actions on Entity List](execute_actions_on_entity_list.md)
 * [Form State](form_state.md)
    * [Auto Save State](auto_save_state.md)
-   * Clear State
+   * [Clear State](clear_state.md)
    * Load State
    * Save State
 * [Filesystem](filesystem.md)
