@@ -49,7 +49,7 @@
    * [Remove Entities](remove_entities.md)
    * [Execute Actions on Entity List](execute_actions_on_entity_list.md)
 * [Form State](form_state.md)
-   * Auto Save State
+   * [Auto Save State](auto_save_state.md)
    * Clear State
    * Load State
    * Save State
