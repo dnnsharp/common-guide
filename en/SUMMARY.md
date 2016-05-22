@@ -47,7 +47,7 @@
 * [Entities](entities.md)
    * [Load Entities (SQL)](load_entities_sql.md)
    * Remove Entities
-   * Execute Actions on Entity List
+   * [Execute Actions on Entity List](execute_actions_on_entity_list.md)
 * [Form State](form_state.md)
    * Auto Save State
    * Clear State
