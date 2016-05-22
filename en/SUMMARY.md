@@ -51,7 +51,7 @@
 * [Form State](form_state.md)
    * [Auto Save State](auto_save_state.md)
    * [Clear State](clear_state.md)
-   * Load State
+   * [Load State](load_state.md)
    * Save State
 * [Filesystem](filesystem.md)
    * Backup Files
