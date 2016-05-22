@@ -91,7 +91,7 @@
    * [Authorize User](authorize_user.md)
    * [Grant User Role](grant_user_role.md)
    * [Revoke User Role](revoke_user_role.md)
-   * Unauthorize User
+   * [Unauthorize User](unauthorize_user.md)
    * [Update User Profile](update_user_profile.md)
    * [User Login](user_login.md)
    * [User Registration](user_registration.md)
