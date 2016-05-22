@@ -52,7 +52,7 @@
    * [Auto Save State](auto_save_state.md)
    * [Clear State](clear_state.md)
    * [Load State](load_state.md)
-   * Save State
+   * [Save State](save_state.md)
 * [Filesystem](filesystem.md)
    * Backup Files
 * [Guide](guide.md)
