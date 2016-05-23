@@ -47,7 +47,6 @@
    * [Clear State](clear_state.md)
    * [Load State](load_state.md)
    * [Save State](save_state.md)
-* [Filesystem](filesystem.md)
 * [Guide](guide.md)
    * [Next Step](next_step.md)
    * [Previous Step](previous_step.md)
