@@ -22,7 +22,6 @@
    * [Run SQL Query](run_sql_query.md)
    * [Server Request](server_request.md)
    * [Upload Form Data (AJAX)](upload_form_data_ajax.md)
-   * [??? Execute SQL Query](execute_sql_query.md)
 * [Datasource = OK](datasource.md)
    * [Datasource Refresh](datasource_refresh.md)
    * [Datasource Add](datasource_add.md)
