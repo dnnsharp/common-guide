@@ -66,7 +66,7 @@
 * [Message](messagee.md)
    * [Display Error Message](display_error_message.md)
    * [Display Message](display_message.md)
-   * Send Plain Text as File Download
+   * [Send Plain Text as File Download](send_plain_text_as_file_download.md)
 * [Parsing](parsing.md)
    * Regex
    * Regex - Multiple Results
