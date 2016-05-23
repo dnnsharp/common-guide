@@ -65,7 +65,7 @@
    * [Execute Method](execute_method.md)
 * [Message](messagee.md)
    * [Display Error Message](display_error_message.md)
-   * Display Message
+   * [Display Message](display_message.md)
    * Send Plain Text as File Download
 * [Parsing](parsing.md)
    * Regex
