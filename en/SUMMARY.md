@@ -75,7 +75,7 @@
    * [Collect PayPal Payment](collect_paypal_payment.md)
 * [Redirect](redirectt.md)
    * [Redirect to Portal Page](redirect_to_portal_page.md)
-   * Redirect to URL
+   * [Redirect to URL](redirect_to_url.md)
    * Send File for Download
 * [Security](security.md)
    * [AES Decrypt](aes_decrypt.md)
