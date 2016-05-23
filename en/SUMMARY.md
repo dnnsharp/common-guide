@@ -68,7 +68,7 @@
    * [AES Encrypt](aes_encrypt.md)
    * [RSA Decrypt](rsa_decrypt.md)
    * [RSA Encrypt](rsa_encrypt.md)
-* [Serialization = OK](serializationn.md)
+* [Serialization](serializationn.md)
    * [Serialize to CSV](serialize_to_csv.md)
 * [Shell = OK](shell.md)
    * [Run Executable](run_executable.md)
