@@ -53,7 +53,7 @@
    * [Display Error Message](display_error_message.md)
    * [Display Message](display_message.md)
    * [Send Plain Text as File Download](send_plain_text_as_file_download.md)
-* [Parsing = OK](parsing.md)
+* [Parsing](parsing.md)
    * [Regex](regex.md)
    * [Regex - Multiple Results](regex_-_multiple_results.md)
 * [Payments](payments.md)
