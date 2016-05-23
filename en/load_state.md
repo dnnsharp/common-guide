@@ -12,5 +12,4 @@ To see a practical example where the Form State actions are used, you can [Click
 * **Storage Location**. Select where to load the saved data from. Session data is lost after a period of inactivity, usually around 20 minutes. Browser cookies usually last longer.
 * **Save data in Reports**. Check this if you want to save the data from the previous forms into the reports.
  
-
-
+![](load-state.png)
