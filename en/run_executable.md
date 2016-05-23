@@ -1,4 +1,4 @@
-# Run Executable Action
+### Run Executable Action
 
 This action runs an executable on the server, optionally capturing the output. This makes it a powerful integration point with the system or custom binaries. Note that if you don’t run the app in Full Trust, this action requires that the Application Pool identity have appropriate permissions. The following configuration options are available: 
 
