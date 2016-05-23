@@ -1,4 +1,4 @@
-# Send Plain Text as File Download
+### Send Plain Text as File Download
 
 Takes the specified plain text contents and passes them to the browser for user download. Using this Action you can edit the following fields:
 
