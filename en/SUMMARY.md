@@ -64,7 +64,7 @@
    * [Run DNN Job](run_dnn_job.md)
    * [Execute Method](execute_method.md)
 * [Message](messagee.md)
-   * Display Error Message
+   * [Display Error Message](display_error_message.md)
    * Display Message
    * Send Plain Text as File Download
 * [Parsing](parsing.md)
