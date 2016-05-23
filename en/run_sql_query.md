@@ -34,4 +34,4 @@ create a form with let's say three fields: Product, Color and Size (these fields
            ,'[Color]'
            ,'[Size]')```**
 
-where *Products* is the name of the table from the database, the values are placed between square brackets because here I reference the form fields using token syntax, value *[Product]* means that whatever value I set in the form field Product, it will be inserted in the column Product.
+Where *Products* is the name of the table from the database, the values are placed between square brackets because here I reference the form fields using token syntax, value *[Product]* means that whatever value I set in the form field Product, it will be inserted in the column Product.
