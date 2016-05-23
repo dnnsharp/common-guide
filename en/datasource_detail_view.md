@@ -1,4 +1,4 @@
-# Datasource Detail View
+### Datasource Detail View
 
 Expands an item to show additional information.
 
