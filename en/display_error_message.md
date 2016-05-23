@@ -1,6 +1,6 @@
 # Display Error Message
 
-Displays an error message. The user can't submit the form until the error is corrected. Using this Action you can edit the following fields:
+This action displays a message if there are some errors while the user is trying to submit the form. It's similar to Display Message action except that you cannot add a button. This action, along with Display Message, can also be used on the section "On Validation Failed". Here's what you can configure:
 
 * **Description**. A short description for the action. Only admins will be able to see this field.
 * **Error Message**. An error message that will be displayed in case if a error occurs in this action.
