@@ -69,7 +69,7 @@
    * [Send Plain Text as File Download](send_plain_text_as_file_download.md)
 * [Parsing](parsing.md)
    * [Regex](regex.md)
-   * Regex - Multiple Results
+   * [Regex - Multiple Results](regex_-_multiple_results.md)
 * [Payments](payments.md)
    * [[Obsolete] Collect PayPal Payment]([obsolete]_collect_paypal_payment.md)
    * [Collect PayPal Payment](collect_paypal_payment.md)
