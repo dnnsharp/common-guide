@@ -68,7 +68,7 @@
    * [Display Message](display_message.md)
    * [Send Plain Text as File Download](send_plain_text_as_file_download.md)
 * [Parsing](parsing.md)
-   * Regex
+   * [Regex](regex.md)
    * Regex - Multiple Results
 * [Payments](payments.md)
    * [[Obsolete] Collect PayPal Payment]([obsolete]_collect_paypal_payment.md)
