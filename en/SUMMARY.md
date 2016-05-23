@@ -60,7 +60,7 @@
 * [Payments](payments.md)
    * [[Obsolete] Collect PayPal Payment]([obsolete]_collect_paypal_payment.md)
    * [Collect PayPal Payment](collect_paypal_payment.md)
-* [Redirect](redirectt.md)
+* [Redirect = OK](redirectt.md)
    * [Redirect to Portal Page](redirect_to_portal_page.md)
    * [Redirect to URL](redirect_to_url.md)
    * [Send File for Download](send_file_for_download.md)
