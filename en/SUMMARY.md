@@ -63,7 +63,7 @@
    * [Redirect to Portal Page](redirect_to_portal_page.md)
    * [Redirect to URL](redirect_to_url.md)
    * [Send File for Download](send_file_for_download.md)
-* [Security = OKish](security.md)
+* [Security = OK](security.md)
    * [AES Decrypt](aes_decrypt.md)
    * [AES Encrypt](aes_encrypt.md)
    * [RSA Decrypt](rsa_decrypt.md)
