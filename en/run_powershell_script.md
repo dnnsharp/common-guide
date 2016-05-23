@@ -1,4 +1,4 @@
-### ## Run PowerShell Script Action
+### Run PowerShell Script Action
 
 This action executes a script with Windows PowerShell, optionally storing the output for later use in other actions. PowerShell is very powerful in achieving system integration such as retrieving information from OS or updating configuration.
 This action exposes the following configuration options:
