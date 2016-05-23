@@ -37,7 +37,6 @@
    * [Log Job Context](log_job_context.md)
 * [DNN](dnn.md)
    * [Delete File](delete_file.md)
-   * [Update Page](update_page.md)
    * [Delete Page (Hard)](delete_page_hard.md)
    * [Delete Page (Soft)](delete_page_soft.md)
 * [Email = OK](emaill.md)
