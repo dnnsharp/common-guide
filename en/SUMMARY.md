@@ -58,7 +58,7 @@
 * [Guide](guide.md)
    * [Next Step](next_step.md)
    * [Previous Step](previous_step.md)
-   * Finish Guide
+   * [Finish Guide](finish_guide.md)
    * Go to step
 * [Integration = OK](integration.md)
    * [Run DNN Job](run_dnn_job.md)
