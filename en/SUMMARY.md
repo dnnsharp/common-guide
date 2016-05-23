@@ -73,7 +73,7 @@
 * [Shell](shell.md)
    * [Run Executable](run_executable.md)
    * [Run PowerShell Script](run_powershell_script.md)
-* [User = OK](user.md)
+* [User](user.md)
    * [Authorize User](authorize_user.md)
    * [Grant User Role](grant_user_role.md)
    * [Revoke User Role](revoke_user_role.md)
