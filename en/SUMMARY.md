@@ -31,7 +31,7 @@
    * [Datasource Edit](datasource_edit.md)
    * [Datasource Inline Edit](datasource_inline_edit.md)
    * [Datasource Detail View](datasource_detail_view.md)
-* [Debug](debug.md)
+* [Debug = OK](debug.md)
    * [Log Debug Info](log_debug_info.md)
    * [Log Error](log_error.md)
    * [Log Job Context](log_job_context.md)
