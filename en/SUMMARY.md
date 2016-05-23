@@ -56,7 +56,7 @@
 * [Filesystem](filesystem.md)
    * [Backup Files](backup_files.md)
 * [Guide](guide.md)
-   * Next Step
+   * [Next Step](next_step.md)
    * Previous Step
    * Finish Guide
    * Go to step
