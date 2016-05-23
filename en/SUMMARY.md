@@ -74,7 +74,7 @@
    * [Run PowerShell Script](run_powershell_script.md)
 * [Serialization = OK](serializationn.md)
    * [Serialize to CSV](serialize_to_csv.md)
-* [User](user.md)
+* [User = OK](user.md)
    * [Authorize User](authorize_user.md)
    * [Grant User Role](grant_user_role.md)
    * [Revoke User Role](revoke_user_role.md)
