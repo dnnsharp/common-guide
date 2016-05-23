@@ -39,7 +39,7 @@
    * [Delete File](delete_file.md)
 * [Email = OK](emaill.md)
    * [Send Email](email.md)
-* [Entities](entities.md)
+* [Entities = OK](entities.md)
    * [Load Entities (SQL)](load_entities_sql.md)
    * [Remove Entities](remove_entities.md)
 * [Form State](form_state.md)
