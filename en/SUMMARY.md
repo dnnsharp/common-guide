@@ -57,7 +57,7 @@
    * [Backup Files](backup_files.md)
 * [Guide](guide.md)
    * [Next Step](next_step.md)
-   * Previous Step
+   * [Previous Step](previous_step.md)
    * Finish Guide
    * Go to step
 * [Integration = OK](integration.md)
