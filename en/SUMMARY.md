@@ -36,7 +36,7 @@
    * [Log Job Context](log_job_context.md)
 * [DNN](dnn.md)
    * [Delete File](delete_file.md)
-* [Email = OK](emaill.md)
+* [Email](emaill.md)
    * [Send Email](email.md)
 * [Entities = OK](entities.md)
    * [Load Entities (SQL)](load_entities_sql.md)
