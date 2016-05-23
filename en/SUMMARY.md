@@ -70,7 +70,7 @@
    * [RSA Encrypt](rsa_encrypt.md)
 * [Serialization](serializationn.md)
    * [Serialize to CSV](serialize_to_csv.md)
-* [Shell = OK](shell.md)
+* [Shell](shell.md)
    * [Run Executable](run_executable.md)
    * [Run PowerShell Script](run_powershell_script.md)
 * [User = OK](user.md)
