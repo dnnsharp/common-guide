@@ -35,7 +35,7 @@
    * [Log Debug Info](log_debug_info.md)
    * [Log Error](log_error.md)
    * [Log Job Context](log_job_context.md)
-* [DNN](dnn.md)
+* [DNN = OK](dnn.md)
    * [Delete File](delete_file.md)
 * [Email = OK](emaill.md)
    * [Send Email](email.md)
