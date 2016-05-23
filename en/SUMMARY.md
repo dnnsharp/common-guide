@@ -16,7 +16,7 @@
    * [Change User](change_user.md)
    * [Inject Data](inject_data.md)
    * [Load Users from SQL](load_users_from_sql.md)
-* [Data = OKish](data.md)
+* [Data = OK](data.md)
    * [Clear Cache (by Key)](clear_cache_by_key.md)
    * [Repost Data](repost_data.md)
    * [Run SQL Query](run_sql_query.md)
