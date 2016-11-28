@@ -1,6 +1,6 @@
 # Execute actions on entity list
 
-This action will execute the actions in the action list below for each entity from the EntityName entity collection.
+This action will execute the given actions, for each item that belongs to the entity collection named in the EntityName option.
 To access field values from the currently iterated entity, in the actions from the list, you can use tokens that look like this: [<EntityName>:<EntityFieldName>].
 
 
