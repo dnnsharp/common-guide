@@ -9,4 +9,4 @@ Load a list of entities from a SQL query into context; so further actions like *
   *SQL Column* - column name
   *Entity Property* - property that can be reference it later
 
-*  On Error - define a list of actions to run on error. Otherwise, an error message is returned which will contain the underlying error if debug mode is on.
+*  On Error - define a list of actions to run on error. Otherwise, an error message is returned. It will contain the underlying error if debug mode is on. 
