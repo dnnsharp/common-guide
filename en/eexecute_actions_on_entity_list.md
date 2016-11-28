@@ -8,7 +8,6 @@ To access field values from the currently iterated entity, in the actions from t
 * Filter - filter the entities in the list by setting a *field*and its *value*. 
 * Action List - actions that will be executed on each entity in the list. Reference loaded entity's fields through [EntityName:EntityFieldName] token. 
 * Continue on error - continues to the next iteration even if the current one failed to execute.
-* On Error - define a list of actions to run on error. Otherwise, an error message is returned which will contain the underlying error if debug mode is on.
-
+* On Error - define a list of actions to run on error.  Otherwise, an error message is returned. It will contain the underlying error if debug mode is on.
 
 
