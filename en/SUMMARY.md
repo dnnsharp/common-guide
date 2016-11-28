@@ -42,7 +42,7 @@
    * [Load Entities (SQL)](load_entities_sql.md)
    * [Remove Entities](remove_entities.md)
    * [Load Entities (JSON)](load_entities_json.md)
-   *  Execute actions on entity list
+   * [Execute actions on entity list](eexecute_actions_on_entity_list.md)
 * [Form State](form_state.md)
    * [Auto Save State](auto_save_state.md)
    * [Clear State](clear_state.md)
