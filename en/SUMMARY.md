@@ -1,11 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [Installation](installation.md)
-* [Not Implemented](not_implemented.md)
-* [Add-on FAQs](addon-faqs.md)
-* [Add-on Resources](add-on-resources.md)
-* [ACTIONS BELOW](actions.md)
 * [Code](serialization.md)
    * [Execute Token](execute_token.md)
 * [Context](context.md)
