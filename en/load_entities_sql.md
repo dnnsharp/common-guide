@@ -5,6 +5,7 @@ Load a list of entities from a SQL query into context; so further actions like *
 * SQL Query - SQL to execute. Can contain My Tokens.
 * Entity Name - set a name for the entity so you can reference it later by name. Can contain My Tokens.
 * Properties - map columns returned by the SQL Query to properties of the entity.
+
   *SQL Column* - column name
   *Entity Property* - property that can be reference it later
 
