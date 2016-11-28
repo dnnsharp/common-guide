@@ -5,7 +5,7 @@ Load Entities from a SQL query. Some actions know to execute for each entity, an
 * SQL Query - SQL to execute. Can contain My Tokens.
 * Entity Name - set a name for the entity so you can reference it later by name. Can contain My Tokens.
 * Properties - map columns returned by the SQL Query to properties of the entity.
-             *SQL Column* - column name
-             *Entity Property* - property that can be reference it later
+  SQL Column - column name
+  Entity Property - property that can be reference it later
 
 *  On Error - define a list of actions to run on error. Otherwise, an error message is returned which will contain the underlying error if debug mode is on.
