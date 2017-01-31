@@ -1,6 +1,6 @@
-## Add IMAP Credential
+## Add IMAP Credentials
 
-The Add IMAP Credential action provides the possibility to append a new set of IMAP Credentials to an existing Group. This can be done for example using [Action Form](http://www.dnnsharp.com/dnn/modules/action-form-builder) or [Action Grid Module](http://www.dnnsharp.com/dnn/modules/action-grid-table-data).
+The Add IMAP Credentials action provides the possibility to append a new set of IMAP Credentials to an existing Group. This can be done for example using [Action Form](http://www.dnnsharp.com/dnn/modules/action-form-builder) or [Action Grid Module](http://www.dnnsharp.com/dnn/modules/action-grid-table-data).
 
 Each added entry receives a unique identification number that can be stored into a token name. Specify a token name to save the EntryId response into. You can access it later using the token syntax, for example \[MyNamedEntryIdToken\].  All added data are inserted into the DnnSharp\_CredentialStoreData Database Table.
 
