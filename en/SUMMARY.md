@@ -81,4 +81,5 @@
   * [Clear User Cache](clear_user_cache.md)
 * [Credential Store](credential-store.md)
   * [Add Imap Credential](credential-store/add-imap-credential.md)
+  * [Update Imap Credential](credential-store/update-imap-credential.md)
 
