@@ -1,8 +1,6 @@
 ## Update IMAP Credentials
 
-
-
-The Update IMAP Credential offers the possibility to edit an existent set of IMAP Credentials which belongs to a Group. This can be done for example using [Action Form](http://www.dnnsharp.com/dnn/modules/action-form-builder) or [Action Grid Module](http://www.dnnsharp.com/dnn/modules/action-grid-table-data). Note that the available groups and their entries can be manged from [SharpScheduler&gt; Mail Triggers&gt; Imap.](https://sharp-scheduler.guide.dnnsharp.com/imap.html) 
+The Update IMAP Credential action offers the possibility to edit an existent set of IMAP Credentials which belongs to a Group. This can be done for example using [Action Form](http://www.dnnsharp.com/dnn/modules/action-form-builder) or [Action Grid Module](http://www.dnnsharp.com/dnn/modules/action-grid-table-data). Note that the available groups and their entries can be manged from [SharpScheduler&gt; Mail Triggers&gt; Imap.](https://sharp-scheduler.guide.dnnsharp.com/imap.html)
 
 **Entry ID **- the unique identifier of the entity wanted to be edited. This field supports [My Tokens](http://www.dnnsharp.com/dnn/modules/my-custom-tokens).
 
