@@ -82,4 +82,5 @@
 * [Credential Store](credential-store.md)
   * [Add Imap Credential](credential-store/add-imap-credential.md)
   * [Update Imap Credential](credential-store/update-imap-credential.md)
+  * [Delete Credential](credential-store/delete-credential.md)
 
