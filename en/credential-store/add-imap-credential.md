@@ -4,13 +4,13 @@ The Add IMAP Credentials action provides the possibility to append a new set of 
 
 Each added entry receives a unique identification number that can be stored into a token name. Specify a token name to save the EntryId response into. You can access it later using the token syntax, for example \[MyNamedEntryIdToken\].  All added data are inserted into the DnnSharp\_CredentialStoreData Database Table.
 
-The bellow properties can be added for a Credential Entry:
+The below properties can be added for a Credential Entry:
 
-**Group Name** - the group name which it should belong. The available groups can be manged from [SharpScheduler&gt; Mail Triggers&gt; Imap. ](https://sharp-scheduler.guide.dnnsharp.com/imap.html)
+**Group Name** - the group name to which it should belong. The available groups can be managed from [SharpScheduler&gt; Mail Triggers&gt; Imap. ](https://sharp-scheduler.guide.dnnsharp.com/imap.html)
 
 **Entry Title** - determine a suggestive name for your entry. This field supports [My Tokens](http://www.dnnsharp.com/dnn/modules/my-custom-tokens).
 
-**Hostname **- the details of the incoming email \(IMAP\) server, for example imap.gmail.com:993 \(933 represents the required Port\)This field supports [My Tokens](http://www.dnnsharp.com/dnn/modules/my-custom-tokens).
+**Hostname **- the details of the incoming email \(IMAP\) server, for example imap.gmail.com:993 \(933 represents the required Port\). This field supports [My Tokens](http://www.dnnsharp.com/dnn/modules/my-custom-tokens).
 
 **Use SSL** - enable this option if your Email Server requires an SSL certificate. This field supports [My Tokens](http://www.dnnsharp.com/dnn/modules/my-custom-tokens).
 
