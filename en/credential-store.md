@@ -13,5 +13,7 @@ Credential store supports the following actions:
 * [Delete Credentials](/credential-store/delete-credential.md)
 * [Get Credentials](/credential-store/get-credential.md) 
 
-For a better management experience we recommend to integrated it with our [Action Grid](http://www.dnnsharp.com/dnn/modules/action-grid-table-data) Module. This one comes with a Credential Store Enties Datasource configured in order users to add/edit/remove credentials, as shown in below sections of this article.
+For a better management experience we recommend to integrated it with our [Action Grid](http://www.dnnsharp.com/dnn/modules/action-grid-table-data) Module. This one comes with a Credential Store Entries Datasource configured in order users to add/edit/remove credentials, as shown in below sections of this article. 
+
+
 
