@@ -8,8 +8,8 @@ The entries are grouped into Credentials Group for an easier way to process them
 
 Credential store supports the following actions:
 
-* [Add IMAP Credentials](/credential-store/add-imap-credential.md) useful for the IMAP Trigger available in [SharpScheduler&gt; Mail Triggers&gt; Imap.](https://www.gitbook.com/book/dnnsharp/common/edit#)
-* [Update IMAP Credentials](/credential-store/update-imap-credential.md) useful for the IMAP Trigger available in [SharpScheduler&gt; Mail Triggers&gt; Imap.](https://www.gitbook.com/book/dnnsharp/common/edit#)
+* [Add IMAP Credentials](/credential-store/add-imap-credential.md) useful for the IMAP Trigger available in [SharpScheduler&gt; Mail Triggers&gt; Imap](https://www.gitbook.com/book/dnnsharp/common/edit#)
+* [Update IMAP Credentials](/credential-store/update-imap-credential.md) useful for the IMAP Trigger available in [SharpScheduler&gt; Mail Triggers&gt; Imap](https://www.gitbook.com/book/dnnsharp/common/edit#)
 * [Delete Credentials](/credential-store/delete-credential.md)
 * [Get Credentials](/credential-store/get-credential.md) 
 
@@ -21,7 +21,5 @@ For a better management experience we recommend to integrated it with our [Actio
 * Custom Data Keys - offers to possibility to make columns with the custom data info.
 * Filter Entries - to select entries by their properties and their custom data. The values can contain [My Tokens ](http://www.dnnsharp.com/dnn/modules/my-custom-tokens)and tokens that refer to field names. Enabling the Use Regex option below will use filters as Regex Patterns for evaluate the retrieved values.
 
-After having the Credential Store Entries configured, it can be used Action Grid[ Datasource actions](https://action-grid.guide.dnnsharp.com/en/buttons/actions/datasource.html) for properly operate the records. 
-
-
+After having the Credential Store Entries configured, it can be used Action Grid[ Datasource actions](https://action-grid.guide.dnnsharp.com/en/buttons/actions/datasource.html) for properly operate the records.
 
