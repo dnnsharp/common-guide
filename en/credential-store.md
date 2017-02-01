@@ -13,7 +13,15 @@ Credential store supports the following actions:
 * [Delete Credentials](/credential-store/delete-credential.md)
 * [Get Credentials](/credential-store/get-credential.md) 
 
-For a better management experience we recommend to integrated it with our [Action Grid](http://www.dnnsharp.com/dnn/modules/action-grid-table-data) Module. This one comes with a Credential Store Entries Datasource configured in order users to add/edit/remove credentials, as shown in below sections of this article. 
+For a better management experience we recommend to integrated it with our [Action Grid](http://www.dnnsharp.com/dnn/modules/action-grid-table-data) Module. This one comes with a Credential Store Entries Datasource configured in order users to add/edit/remove credentials, as shown in below sections of this article.
+
+* Credential Store Entries Source - feeds the grid with necessary information. 
+* Credential Type \(ss.trigger.imap\) - provides seamless integration with IMAP Trigger available in [SharpScheduler&gt; Mail Triggers&gt; Imap](https://www.gitbook.com/book/dnnsharp/common/edit#). 
+* Credential Group - the group name for the Credential data to be processed. 
+* Custom Data Keys - offers to possibility to make columns with the custom data info.
+* Filter Entries - to select entries by their properties and their custom data. The values can contain [My Tokens ](http://www.dnnsharp.com/dnn/modules/my-custom-tokens)and tokens that refer to field names. Enabling the Use Regex option below will use filters as Regex Patterns for evaluate the retrieved values.
+
+After having the Credential Store Entries configured, it can be used Action Grid[ Datasource actions](https://action-grid.guide.dnnsharp.com/en/buttons/actions/datasource.html) for properly operate the records. 
 
 
 
