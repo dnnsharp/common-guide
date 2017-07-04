@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [Code](serialization.md)
+  * [Apply Token](apply-token.md)
+  * [Execute Javascript](execute-javascript.md)
   * [Execute Token](execute_token.md)
 * [Context](context.md)
   * [Inject Form Data](inject_form_data.md)
