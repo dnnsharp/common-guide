@@ -15,6 +15,7 @@
   * [Load Users from SQL](load_users_from_sql.md)
 * [Data](data.md)
   * [Clear Cache \(by Key\)](clear_cache_by_key.md)
+  * [Import Into Database \(entity\)](import-into-database-entity.md)
   * [Repost Data](repost_data.md)
   * [Run SQL Query](run_sql_query.md)
   * [Server Request](server_request.md)
