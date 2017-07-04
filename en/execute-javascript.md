@@ -9,5 +9,5 @@ With this action you will also be able to:
 * condition the execution of the code by using boolean expressions \(or conditions that upon execution will evaluate to true/false\)
 * run multiple final actions available in the public APIs \(like initform, openpopup, closemodal,....\)
 
-![](/assets/execute_javascript.png)![](/assets/execute_javascript.png)
+![](/assets/execute_javascript.png)
 
