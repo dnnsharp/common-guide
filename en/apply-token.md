@@ -15,5 +15,5 @@ Using this Action you can edit the following fields:
 * **Number of Recursions**
   . Specify how many times to apply tokenization for each token above.    
 
-![](/assets/apply_tokens.png)![](/assets/apply_tokens.png)
+![](/assets/apply_tokens.png)
 
