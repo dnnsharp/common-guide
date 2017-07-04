@@ -19,7 +19,7 @@
   * [Repost Data](repost_data.md)
   * [Run SQL Query](run_sql_query.md)
   * [Server Request](server_request.md)
-  * [Upload Form Data \(AJAX\)](upload_form_data_ajax.md)
+  * [Update Form Data \(AJAX\)](update_form_data_ajax.md)
 * [Datasource](datasource.md)
   * [Datasource Refresh](datasource_refresh.md)
   * [Datasource Add](datasource_add.md)
