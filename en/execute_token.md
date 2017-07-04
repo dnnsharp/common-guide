@@ -2,7 +2,7 @@
 
 The Execute Token action can be used when a form is submitted, and it can be useful only when it's used with My Tokens, where tokens can contain business logic that generates and saves data.
 
-Using this Action you can edit the following fields:
+For this Action you can edit the following fields:
 
 * **Description**. A short description for the action. Only admins will be able to see this field.
 * **Error Message**. An error message that will be displayed in case if a error occurs in this action.
