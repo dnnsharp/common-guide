@@ -8,5 +8,5 @@ It does exactly what it says, with the click of a button. For this action you ca
 * **EntryId**. A guid that uniquely identifies an entry. Can contain form tokens \(for example **\[Email\]**\) and **My Tokens**.
 * **Input**. Can contain form tokens \(for example **\[Email\]**\) and **My Tokens**.
 
-![](/en/authorize_user.png)
+![](/en/authorize_user.png)![](blob:https://www.gitbook.com/6260954c-33a5-4b97-8686-ef1683960c3d)
 
