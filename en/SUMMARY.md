@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+  * Credential Store
 * [Code](serialization.md)
   * [Apply Token](apply-token.md)
   * [Execute Javascript](execute-javascript.md)
@@ -20,6 +21,11 @@
   * [Run SQL Query](run_sql_query.md)
   * [Server Request](server_request.md)
   * [Update Form Data \(AJAX\)](update_form_data_ajax.md)
+* [Credential Store](credential-store.md)
+  * [Add Imap Credentials](credential-store/add-imap-credential.md)
+  * [Update Imap Credentials](credential-store/update-imap-credential.md)
+  * [Delete Credentials](credential-store/delete-credential.md)
+  * [Get Credentials](credential-store/get-credential.md)
 * [Datasource](datasource.md)
   * [Datasource Refresh](datasource_refresh.md)
   * [Datasource Add](datasource_add.md)
@@ -69,18 +75,4 @@
 * [Shell](shell.md)
   * [Run Executable](run_executable.md)
   * [Run PowerShell Script](run_powershell_script.md)
-* [User](user.md)
-  * [Authorize User](authorize_user.md)
-  * [Grant User Role](grant_user_role.md)
-  * [Revoke User Role](revoke_user_role.md)
-  * [Unauthorize User](unauthorize_user.md)
-  * [Update User Profile](update_user_profile.md)
-  * [User Login](user_login.md)
-  * [User Registration](user_registration.md)
-  * [Clear User Cache](clear_user_cache.md)
-* [Credentials Store](credential-store.md)
-  * [Add Imap Credentials](credential-store/add-imap-credential.md)
-  * [Update Imap Credentials](credential-store/update-imap-credential.md)
-  * [Delete Credentials](credential-store/delete-credential.md)
-  * [Get Credentials](credential-store/get-credential.md)
 

@@ -4,3 +4,5 @@ Through the Delete Credentials action a given entry can be removed. This can be 
 
 **Entry ID **- the unique identifier of the entity wanted to be removed. This field supports [My Tokens](http://www.dnnsharp.com/dnn/modules/my-custom-tokens).
 
+![](http://static.dnnsharp.com/documentation/delete_credential.png)
+
