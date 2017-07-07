@@ -41,6 +41,7 @@
 * [DNN](dnn.md)
   * [Delete File](delete_file.md)
   * [Copy File](copy-file.md)
+  * [Delete Folder](delete-folder.md)
 * [Email](emaill.md)
   * [Send Email](email.md)
 * [Entities](entities.md)
