@@ -13,5 +13,7 @@ The tokens below are generated:
 * \[CredentialEntryData:&lt;Fieldname&gt;\] 
 * \[CredentialEntryData:&lt;CustomDataKey&gt;\] 
 
+![](http://static.dnnsharp.com/documentation/get_credential.png)
+
 
 
