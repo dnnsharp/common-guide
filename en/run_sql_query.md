@@ -7,12 +7,14 @@ Here are some common scenarios when you would use this action:
 * Use an \_**UPDATE **\_statement to calculate some statistics for large databases on an interval, instead of calculating them on every call
 * Execute a \_**SELECT **\_statement to retrieve data to be used with other actions down the stack
 * Flush old temporary data using a **DELETE **statement
-* Execute a stored procedure that calculates commissions paid through a referral program
+* Execute a stored procedure that calculates commissions paid through a referral program![](https://static.dnnsharp.com/documentation/chrome_2017-07-07_15-58-29.png)
 
 You can capture one or more data by:
 
 * either using the _**Store Scalar Result**_ field\(first row-first column\) 
 * or the _**Extract More Data**_ area\(first row from specified columns\)
+
+![](https://static.dnnsharp.com/documentation/chrome_2017-07-07_16-01-22.png)
 
 If you want to update a table with changed form data, what you have to do is create an SQL action on the button with insert statement. Then, you can reference fields using token syntax. For example:
 
