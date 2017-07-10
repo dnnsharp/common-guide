@@ -47,12 +47,12 @@
 * [Email](emaill.md)
   * [Send Email](email.md)
 * [Entities](entities.md)
+  * [Create Entity](create-entity.md)
+  * [Extend Entity](extend-entity.md)
+  * [Execute actions on entity list](eexecute_actions_on_entity_list.md)
   * [Load Entities \(JSON\)](load_entities_json.md)
   * [Load Entities \(SQL\)](load_entities_sql.md)
-  * [Execute actions on entity list](eexecute_actions_on_entity_list.md)
   * [Remove Entities](remove_entities.md)
-  * Create Entity
-  * Extend Entity
   * Remap Entity List
 * [Integration](integration.md)
   * [Run DNN Job](run_dnn_job.md)
