@@ -44,6 +44,11 @@
   * [Delete Folder](delete-folder.md)
 * [DNN Sharp](dnn-sharp.md)
   * [TabsPro Change Tab](dnn-sharp/tabspro-change-tab.md)
+  * [Initialize Action Form](dnn-sharp/initialize-action-form.md)
+  * Open Action Form Popup
+  * Open TabsPro Popup
+  * Close Action Form Popup
+  * Close TabsPro Popup
 * [Email](emaill.md)
   * [Send Email](email.md)
 * [Entities](entities.md)
