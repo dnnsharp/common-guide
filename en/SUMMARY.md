@@ -42,6 +42,8 @@
   * [Delete File](delete_file.md)
   * [Copy File](copy-file.md)
   * [Delete Folder](delete-folder.md)
+* [DNN Sharp](dnn-sharp.md)
+  * [TabsPro Change Tab](dnn-sharp/tabspro-change-tab.md)
 * [Email](emaill.md)
   * [Send Email](email.md)
 * [Entities](entities.md)
@@ -74,7 +76,5 @@
   * [RSA Encrypt](rsa_encrypt.md)
 * [Serialization](serializationn.md)
   * [Serialize to CSV](serialize_to_csv.md)
-* [Shell](shell.md)
-  * [Run Executable](run_executable.md)
-  * [Run PowerShell Script](run_powershell_script.md)
+* DNN Sharp
 
