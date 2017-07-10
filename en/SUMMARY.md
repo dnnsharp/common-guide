@@ -45,10 +45,8 @@
 * [DNN Sharp](dnn-sharp.md)
   * [TabsPro Change Tab](dnn-sharp/tabspro-change-tab.md)
   * [Initialize Action Form](dnn-sharp/initialize-action-form.md)
-  * Open Action Form Popup
-  * Open TabsPro Popup
-  * Close Action Form Popup
-  * Close TabsPro Popup
+  * [Open module Popup](dnn-sharp/open-action-form-popup.md)
+  * [Close module Popup](dnn-sharp/close-action-form-popup.md)
 * [Email](emaill.md)
   * [Send Email](email.md)
 * [Entities](entities.md)
