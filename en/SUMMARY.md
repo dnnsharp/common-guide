@@ -53,7 +53,7 @@
   * [Load Entities \(JSON\)](load_entities_json.md)
   * [Load Entities \(SQL\)](load_entities_sql.md)
   * [Remove Entities](remove_entities.md)
-  * Remap Entity List
+  * [Remap Entity List](remap-entity-list.md)
 * [Integration](integration.md)
   * [Run DNN Job](run_dnn_job.md)
   * [Execute Method](execute_method.md)
