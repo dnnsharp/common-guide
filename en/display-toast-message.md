@@ -26,5 +26,5 @@ Show Loader - displays a progress bar;
 
 Loader Color - the color of the progress bar \(eg. red \#00ff00 rgb\(0,0,255\)\). Supports My Tokens.
 
-![](/assets/ToastMessage.png)
+![](http://static.dnnsharp.com/documentation/DisplayToastMessage.jpg)
 
