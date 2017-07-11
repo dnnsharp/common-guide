@@ -65,6 +65,9 @@
   * [Display Message](display_message.md)
   * [Display Toast Message](display-toast-message.md)
   * [Send Plain Text as File Download](send_plain_text_as_file_download.md)
+* [Output](output.md)
+  * [JSON Entity](output/json-entity.md)
+  * [JSON entity list](output/json-entity-list.md)
 * [Parsing](parsing.md)
   * [Regex](regex.md)
   * [Regex - Multiple Results](regex_-_multiple_results.md)
@@ -82,5 +85,4 @@
   * [RSA Encrypt](rsa_encrypt.md)
 * [Serialization](serializationn.md)
   * [Serialize to CSV](serialize_to_csv.md)
-* DNN Sharp
 
