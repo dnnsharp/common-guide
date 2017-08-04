@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-  * Credential Store
+  * [Credential Store](credential-store.md)
 * [Code](serialization.md)
   * [Apply Token](apply-token.md)
   * [Execute Javascript](execute-javascript.md)
