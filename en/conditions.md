@@ -11,8 +11,6 @@ The Condition option runs on server side, is C\# code and can contains tokens \(
 * Show Conditionally -  applies from the server side, it supports C\# syntax. It's not real time. It evaluates on form load and on button clicks, for example. But you have the power of everything that's on the server, including My Tokens. Please note that if "Show Conditionally" returns false then the field value will not be saved in the reports.
 * Enable Conditionally - applies from the server side, it supports C\# syntax. It's not real time. It evaluates on form load and on button clicks. But you have the power of everything that's on the server, including My Tokens.
 
-
-
 ### **Fields - Bind Expressions**
 
 * Show option -  runs on client side, is JavaScript code, you can use \[FieldId\] from your form. In this option you can display the field depending on other fields from your form. "Bind Show" applies from client side, through JavaScript and Angular JS. It's real time. But obviously you don't have access to server side objects, such as My Tokens. This is good to show/hide fields based on values in other fields.Please note that if the "Show" condition returns false then the field value will not be saved in the reports.
@@ -27,12 +25,16 @@ The Condition option runs on server side, is C\# code and can contains tokens \(
 **Using Fields **
 
 * having a text box SomeText : \[SomeText\] == "Some Value"
-* having a check box CheckboxFieldId : \[CheckboxFieldId\] == true
+* having a check box CheckboxFieldId : \[CheckboxFieldId\] == true
 
-**Using complex expressions**
+**Using complex expressions**
 
 * \[AgreedToTerms\] && \[Signature\] == \[Name\]
 * \[AgreedToTerms\] && \(\[Signature\] == \[Name\] \|\| \[SignLaterAtYourOffice\]\)
+
+**Using C\# Date Time methods**
+
+*  \[date1\].AddMinutes\(45\) &gt; \[DateTime:Now\] && \[date2\].AddMinutes\(55\) &lt;= \[DateTime:Now\]
 
 
 
