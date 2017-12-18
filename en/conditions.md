@@ -32,9 +32,16 @@ The Condition option runs on server side, is C\# code and can contains tokens \(
 * \[AgreedToTerms\] && \[Signature\] == \[Name\]
 * \[AgreedToTerms\] && \(\[Signature\] == \[Name\] \|\| \[SignLaterAtYourOffice\]\)
 
-**Using C\# Date Time methods**
+**Using DateTime Comparison**
 
-*  \[date1\].AddMinutes\(45\) &gt; \[DateTime:Now\] && \[date2\].AddMinutes\(55\) &lt;= \[DateTime:Now\]
+* It supports any C\# Date Time methods, for example: \[date1\].AddMinutes\(45\) &gt; \[DateTime:Now\] && \[date2\].AddMinutes\(55\) &lt;= \[DateTime:Now\]
+* It supports multiple comparition operators, like: 
+  * **== **for example: 
+  * **!= **for example:
+  * **&lt; **for example:
+  * **&lt;= **for example:
+  * **&gt; **for example:
+  * **&gt;= **for example:
 
 
 
