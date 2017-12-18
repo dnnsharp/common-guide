@@ -41,7 +41,7 @@ The Condition option runs on server side, is C\# code and can contains tokens \(
   * **&lt; **for example: \[Datetime:Now\] &lt; \[DateFieldID\]
   * **&lt;= **for example: \[DateFieldID1\] &lt;= "12/18/2011 21:12"
   * **&gt; **for example: "Some String" &gt; \[DateFieldID\]
-  * **&gt;= **for example: \#11/11/2011 21:12\# &lt;= "11/11/2011 21:11"
+  * **&gt;= **for example: \#11/11/2011 21:12\# &lt;= "11/11/2011 21:11" where \# 
 
 
 
