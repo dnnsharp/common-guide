@@ -37,7 +37,7 @@ The Condition option runs on server side, is C\# code and can contains tokens \(
 * It supports any C\# Date Time methods, for example: \[date1\].AddMinutes\(45\) &gt; \[DateTime:Now\] && \[date2\].AddMinutes\(55\) &lt;= \[DateTime:Now\]
 * It supports multiple comparition operators, like: 
   * **== **for example: "12/18/2011 21:12" == "12/18/2011 21:12" 
-  * **!= **for example: "12/18/2011 20:12" != ""
+  * **!= **for example: "12/18/2011 20:12" != "11/11/2011 21:11"
   * **&lt; **for example: \[Datetime:Now\] &lt; \[DateFieldID\]
   * **&lt;= **for example: \[DateFieldID1\] &lt;= "12/18/2011 21:12"
   * **&gt; **for example: "12/18/2011 21:12" &gt; \[DateFieldID\]
